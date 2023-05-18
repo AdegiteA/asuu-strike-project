@@ -94,6 +94,7 @@ asuu-strike-project
 
 - [Farook Ajose](https://github.com/fkajose)
 - [Oluwaseyi Adaramola](http://github.com/socratesjnr)
+- [Adegite Adejuwon](https://github.com/AdegiteA)
 
 ## Acknowledgments
 
